@@ -48,7 +48,6 @@ class Joaquim:
   <tr>
     <td width="50%">
       <a href="https://github.com/Joaquim-Tex/Portifolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Joaquim-Tex&repo=Portifolio&theme=tokyonight&bg_color=0d1117&title_color=b16cff&icon_color=b16cff&text_color=c9c9c9&border_color=2d2d2d" />
       </a>
     </td>
     <td width="50%">
@@ -77,25 +76,6 @@ class Joaquim:
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Joaquim-Tex&theme=tokyo-night&bg_color=0d1117&color=b16cff&line=b16cff&point=ffffff&area=true&area_color=6e2594&border_color=2d2d2d" width="95%"/>
 </div>
-
-<br>
-
-## 🏆 Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Joaquim-Tex&theme=algolia&no-frame=true&column=4&margin-w=10&margin-h=10&title.color=b16cff&background=0d1117&border=2d2d2d" />
-</div>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Joaquim-Tex/Joaquim-Tex/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<br>
-
 ## 🌐 Conecte-se comigo
 
 <div align="center">
